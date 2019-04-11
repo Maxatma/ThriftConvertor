@@ -1,5 +1,6 @@
 # ThriftConvertor
 ThritConvertor -  create needed Realm classes from Thrift classes (and mappers to convert them in both directions)
+
 Top class is CodeConverter
 
 Example usage: 
